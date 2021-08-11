@@ -89,7 +89,6 @@ C:\Users\esteen\testAutomation\TA_SeleniumCsharp\SeleniumCsharpPractice\bin\Debu
 C:\Users\esteen\testAutomation\TA_SeleniumCsharp\SeleniumCsharpPractice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\esteen\testAutomation\TA_SeleniumCsharp\SeleniumCsharpPractice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\esteen\testAutomation\TA_SeleniumCsharp\SeleniumCsharpPractice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\esteen\testAutomation\TA_SeleniumCsharp\SeleniumCsharpPractice\obj\Debug\netcoreapp3.1\SeleniumCsharpPractice.csprojAssemblyReference.cache
 C:\Users\esteen\testAutomation\TA_SeleniumCsharp\SeleniumCsharpPractice\obj\Debug\netcoreapp3.1\SeleniumCsharpPractice.AssemblyInfoInputs.cache
 C:\Users\esteen\testAutomation\TA_SeleniumCsharp\SeleniumCsharpPractice\obj\Debug\netcoreapp3.1\SeleniumCsharpPractice.AssemblyInfo.cs
 C:\Users\esteen\testAutomation\TA_SeleniumCsharp\SeleniumCsharpPractice\obj\Debug\netcoreapp3.1\SeleniumCsharpPractice.csproj.CoreCompileInputs.cache
