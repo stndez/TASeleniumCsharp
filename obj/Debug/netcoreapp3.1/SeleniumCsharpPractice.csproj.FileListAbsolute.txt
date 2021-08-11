@@ -97,3 +97,4 @@ C:\Users\esteen\testAutomation\TA_SeleniumCsharp\SeleniumCsharpPractice\obj\Debu
 C:\Users\esteen\testAutomation\TA_SeleniumCsharp\SeleniumCsharpPractice\obj\Debug\netcoreapp3.1\SeleniumCsharpPractice.dll
 C:\Users\esteen\testAutomation\TA_SeleniumCsharp\SeleniumCsharpPractice\obj\Debug\netcoreapp3.1\SeleniumCsharpPractice.pdb
 C:\Users\esteen\testAutomation\TA_SeleniumCsharp\SeleniumCsharpPractice\obj\Debug\netcoreapp3.1\SeleniumCsharpPractice.genruntimeconfig.cache
+C:\Users\esteen\testAutomation\TA_SeleniumCsharp\SeleniumCsharpPractice\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
